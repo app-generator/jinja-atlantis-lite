@@ -1,4 +1,4 @@
-# [Jinja Template](https://appseed.us/jinja-template) - [Atlantis Lite](https://appseed.us/jinja-template/jinja-template-atlantis-lite)
+# [Jinja Template](https://appseed.us/jinja-template) - Atlantis Lite
 
 > Seed project coded in Flask/Jinja on top of Atlantis Lite (free version) - Features:
 
@@ -7,10 +7,12 @@
 - Framework: Flask (no database, no hard dependencies)
 - Free support via **Github** and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
-- [Jinja Template Atlantis Lite](https://appseed.us/jinja-template/jinja-template-atlantis-lite) - Product page
-- [Jinja Template Atlantis Lite - Demo](https://jinja-template-atlantis-lite.appseed.us/) - LIVE Demo
+- [Jinja Atlantis Lite](https://appseed.us/jinja-template/jinja-template-atlantis-lite) - Product page
+- [Jinja Atlantis Lite - Demo](https://jinja-atlantis-lite.appseed-srv1.com/) - LIVE Demo
 - [Atlantis Lite - UI Docs](https://atlantis-lite.appseed.us/) - how to customize the UI
 
 <br />
@@ -21,7 +23,7 @@
 
 <br />
 
-![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-atlantis-lite/master/media/jinja-template-atlantis-lite-screen.png)
+![Template Jinja2 Theme - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-atlantis-lite/master/media/jinja-template-atlantis-lite-screen.png)
 
 <br />
 
@@ -182,4 +184,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template - Atlantis Lite](https://appseed.us/jinja-template/jinja-template-atlantis-lite) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template](https://appseed.us/jinja-template) - Atlantis Lite - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
