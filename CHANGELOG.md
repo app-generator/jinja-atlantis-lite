@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.2] 2021-01-19
+### Improvements
+
+-  Highlight sidebar based on the selected page
+
 ## [1.0.1] 2021-01-19
 ### Improvements
 
